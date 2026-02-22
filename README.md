@@ -52,5 +52,5 @@
 
 ### 📊 Activity
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=BALROG035&theme=tokyonight&border=007AFF&stroke=007AFF&ring=FFA500&fire=FF4500&currStreakNum=FFA500&sideNums=38d1da&currStreakLabel=FFA500&sideLabels=ffffff&dates=ffffff&hide_border=false" alt="Streak Stats" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=BALROG035&theme=tokyonight&border=007AFF&stroke=007AFF&ring=FFA500&fire=FF4500&currStreakNum=FFA500&sideNums=007AFF&currStreakLabel=FFA500&sideLabels=ffffff&dates=ffffff&hide_border=false" alt="Streak Stats" />
 </p>
