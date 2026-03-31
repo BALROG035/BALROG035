@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Muhammet</h1>
 
 ### 🚀 About Me
-- 🌐 Visit my portfolio: [muhammetcvk.vercel.app](https://muhammetcvk.vercel.app/)
+- 🌐 Visit my portfolio: [muhammetcevik.com](https://www.muhammetcevik.com/)
 - 🌱 I’m currently focusing on **.NET** technologies.
 - 💻 Improving my skills in **Full Stack Development** with modern tech stacks.
 
