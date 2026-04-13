@@ -14,7 +14,7 @@
 ### 🤝 Connect with me
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammet-cevik/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="muhammet-cevik" /></a>
-<a href="mailto:muhammetcevik5551@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="muhammetcevik5551@gmail.com" /></a>
+<a href="mailto:mail@muhammetcevik.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="mail@muhammetcevik.com" /></a>
 </p>
 
 ---
